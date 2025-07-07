@@ -95,3 +95,5 @@ nltk.download('punkt')
 4.  **View Results**: The system will then display a detailed evaluation report, including scores, detected errors, and suggestions for improvement.
 
 -----
+
+colab link: https://colab.research.google.com/drive/18Z_3AeoLOV2RK2cq-a943B15ALTzdKCD?usp=sharing
